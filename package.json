@@ -2,6 +2,10 @@
   "name": "mi-proyecto",
   "version": "1.0.0",
   "description": "Proyecto de Pre entrega",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanho2584/Pre-Entrega-Node-Back.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
