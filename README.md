@@ -103,7 +103,7 @@ npm run start DELETE products/7
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_REPO>
+git clone <https://github.com/juanho2584/Pre-Entrega-Node-Back.git>
 cd mi-proyecto
 ```
 
